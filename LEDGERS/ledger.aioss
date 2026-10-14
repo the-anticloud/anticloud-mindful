@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: PSYCHOLOGY/MINDFUL
+# records: 5
+# head: 5995d345c708f14163d38efb514495491a30bd373b7ae3fe37113af5ab35fdbd
+{"digest": "1bd3066e10f6fce26fd0a1c1732f003c136a85bb785ae9a0539793155f4ba67b", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "17c6598b1b3515979f189b7405ace1da914f71a2c8339896872258b7a61565f5", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:54:09Z"}
+{"digest": "88608ac54dd8086afe4d4c9a4aa847ba6d314e6be099994c4aa011a6d2529973", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "07952e38ae26c19ff74ff04f12b993d2643f6cb828e22132b59e580e3e2e2d47", "prev": "1bd3066e10f6fce26fd0a1c1732f003c136a85bb785ae9a0539793155f4ba67b", "seq": 1, "ts": "2026-10-09T05:54:09Z"}
+{"digest": "d1314fa84439f497cf9befe4e7351f400b75803e4d3029e05d1b9904a2e6f322", "kind": "readme", "path": "README.md", "payload_sha3": "7e7f5fafd2d6ae1fb60e126d1d7190712dbcb984eacd7567ae8d059c1d514c52", "prev": "88608ac54dd8086afe4d4c9a4aa847ba6d314e6be099994c4aa011a6d2529973", "seq": 2, "ts": "2026-10-09T05:54:09Z"}
+{"digest": "ba0147b83d888620a27179167fc4508a0c4160754f559d97481dbbd89d91d47b", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "d224d766338e33a50c6f5a79289c85c1efbefc74be182eeb316fd1f27df022c5", "prev": "d1314fa84439f497cf9befe4e7351f400b75803e4d3029e05d1b9904a2e6f322", "seq": 3, "ts": "2026-10-09T05:54:09Z"}
+{"digest": "5995d345c708f14163d38efb514495491a30bd373b7ae3fe37113af5ab35fdbd", "kind": "notice", "path": "NOTICE", "payload_sha3": "47863575e022b5b4c50e452ebfa459acaabc4d089d147ba59ec2440a61a2aa2c", "prev": "ba0147b83d888620a27179167fc4508a0c4160754f559d97481dbbd89d91d47b", "seq": 4, "ts": "2026-10-09T05:54:09Z"}
