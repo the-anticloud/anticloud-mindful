@@ -1,0 +1,53 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:2b45dac5-e01d-5712-b237-018784039e21",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-11T05:20:54Z",
+    "component": {
+      "type": "application",
+      "name": "MINDFUL",
+      "version": "6ec4443505d2",
+      "bom-ref": "pkg:generic/anticloud/MINDFUL@6ec4443505d2",
+      "purl": "pkg:generic/anticloud/MINDFUL@6ec4443505d2",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "6ec4443505d2dbec6562879252b9e92423f55acd"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/the-anticloud/anticloud-mindful.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "library",
+      "name": "golang.org/x/term",
+      "version": "v0.24.0",
+      "purl": "pkg:golang/golang.org/x/term@v0.24.0",
+      "bom-ref": "go/golang.org/x/term@v0.24.0"
+    },
+    {
+      "type": "library",
+      "name": "golang.org/x/sys",
+      "version": "v0.25.0",
+      "purl": "pkg:golang/golang.org/x/sys@v0.25.0",
+      "bom-ref": "go/golang.org/x/sys@v0.25.0"
+    }
+  ]
+}
